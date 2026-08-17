@@ -1,0 +1,24 @@
+{
+  "short_name": "PyCircuit",
+  "name": "PyCircuit - Impara Raspberry Pi e Python",
+  "description": "Simulatore interattivo Raspberry Pi, programmazione Python e kit elettronico SunFounder Raphael.",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#070d19",
+  "theme_color": "#070d19",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education", "developer", "utilities"]
+}

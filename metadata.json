@@ -1,0 +1,6 @@
+{
+  "name": "PyCircuit",
+  "description": "Impara la programmazione hardware e Python per Raspberry Pi in un ambiente simulato interattivo e con il kit fisico SunFounder Raphael.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
